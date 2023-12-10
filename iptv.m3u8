@@ -458,3 +458,5 @@ https://i.mjh.nz/al-jazeera.m3u8
 
 #EXTINF:-1 channel-id="mjh-channel-news-asia" tvg-id="mjh-channel-news-asia" tvg-logo="https://i.mjh.nz/.images/channel-news-asia.png" group-title="World" , Channel News Asia (CNA)
 https://i.mjh.nz/channel-news-asia.m3u8
+#EXTINF:-1 channel-id="bbc-news-world" tvg-id="bbc-news-world" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/bbc-world-news-uk.png" group-title="World" , BBC News World
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
