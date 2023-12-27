@@ -1,0 +1,3 @@
+x-tvg-url="https://i.mjh.nz/au/Perth/epg.xml"
+x-tvg-url="https://i.mjh.nz/SamsungTVPlus/gb.xml"
+x-tvg-url="https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml"
